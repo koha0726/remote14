@@ -1,0 +1,21 @@
+--------------
+blog-title 
+--------------
+
+( header.jpg )
+
+MENU
+.profile
+.news
+.article
+.site map
+.link
+
+[2020/12/22]
+[Hello! My name is ...]
+
+[2020/12/30]
+[Today, I enjoyed ...]
+
+------------
+My-blog(c)
