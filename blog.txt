@@ -1,8 +1,8 @@
 --------------
-blog-title 
+マイページ 
 --------------
 
-( header.jpg )
+( apple.jpg )
 
 MENU
 .profile
